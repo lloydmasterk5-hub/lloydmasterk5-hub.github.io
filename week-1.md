@@ -8,15 +8,15 @@ Two main projects are currently being developed: experimental rocket constructio
 
 ---
 
-
 ## Project 1 — Paper Rocket Prototype (Saturn V 1/96)
 
 A paper model of the Saturn V rocket is currently under construction.
 
 The objective of this project is not only the physical model itself, but also a theoretical analysis of its **center of mass**.
 
-**Once the model is completed, the rocket will be approximated as a set of thin cylindrical and conical shells. Using these approximations, the center of mass will be calculated theoretically later with a post about 
-the histoty of space exploration**
+Once the model is completed, the rocket will be approximated as a set of thin cylindrical and conical shells. Using these approximations, the center of mass will be calculated theoretically later with a post about 
+the histoty of space exploration
+
 ---
 
 ## Project 2 — Synthetic Universe Modeling
