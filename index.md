@@ -8,3 +8,6 @@ This website documents my progress in mathematics, physics, and experimental pro
 
 ### Paper Rocket Project
 Construction and analysis of a Saturn V 1/96 paper rocket prototype.
+
+### Theoretical Universe Project
+Exploration of how different axioms and physical laws change the universe and its matter 
