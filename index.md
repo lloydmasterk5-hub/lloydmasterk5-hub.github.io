@@ -14,3 +14,4 @@ Exploration of how different axioms and physical laws change the universe and it
 
 ## Posts 
 [Week 01 — Beginning of Independent Research Projects](week-1.md)
+[Week 02](week-2)
